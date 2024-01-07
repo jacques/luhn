@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require paybreak/luhn
+$ composer require jacques/luhn
 ```
 
 ## Usage
@@ -54,7 +54,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/paybreak/luhn.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/paybreak/luhn.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/paybreak/luhn
+[link-packagist]: https://packagist.org/packages/jacques/luhn
 [link-travis]: https://travis-ci.org/PayBreak/luhn
 [link-scrutinizer]: https://scrutinizer-ci.com/g/paybreak/luhn/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/paybreak/luhn
