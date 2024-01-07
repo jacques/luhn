@@ -1,10 +1,10 @@
 {
-    "name": "paybreak/luhn",
+    "name": "jacques/luhn",
     "description": "Luhn algorithm implementation",
     "keywords": [
         "luhn"
     ],
-    "homepage": "https://github.com/paybreak/luhn",
+    "homepage": "https://github.com/jacques/luhn",
     "license": "MIT",
     "require": {
         "php" : ">=5.5.0"
